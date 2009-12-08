@@ -7,16 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3201D95510CED9AB002B5A73 /* TULEDIndicatorView+Convenience.h in Headers */ = {isa = PBXBuildFile; fileRef = 3201D95310CED9AB002B5A73 /* TULEDIndicatorView+Convenience.h */; };
+		3201D95610CED9AB002B5A73 /* TULEDIndicatorView+Convenience.m in Sources */ = {isa = PBXBuildFile; fileRef = 3201D95410CED9AB002B5A73 /* TULEDIndicatorView+Convenience.m */; };
+		3201D9B610CEF509002B5A73 /* TULEDIndicatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3279F8BA10B5C6FF00962C75 /* TULEDIndicatorView.m */; };
+		3201D9C610CEFC72002B5A73 /* TULEDIndicatorView+Convenience.m in Sources */ = {isa = PBXBuildFile; fileRef = 3201D95410CED9AB002B5A73 /* TULEDIndicatorView+Convenience.m */; };
 		3279F8BB10B5C6FF00962C75 /* TULEDIndicatorView.h in Headers */ = {isa = PBXBuildFile; fileRef = 3279F8B910B5C6FF00962C75 /* TULEDIndicatorView.h */; };
 		3279F8BC10B5C6FF00962C75 /* TULEDIndicatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3279F8BA10B5C6FF00962C75 /* TULEDIndicatorView.m */; };
 		3279F8BF10B5C71300962C75 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3279F8BD10B5C71300962C75 /* CoreGraphics.framework */; };
 		3279F8C010B5C71300962C75 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3279F8BE10B5C71300962C75 /* UIKit.framework */; };
 		3279F8C610B5C71F00962C75 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3279F8C510B5C71F00962C75 /* QuartzCore.framework */; };
+		32A566EB10CC76750046F74C /* TULEDImageFileSchema.h in Headers */ = {isa = PBXBuildFile; fileRef = 32A566E910CC76750046F74C /* TULEDImageFileSchema.h */; };
+		32A566EC10CC76750046F74C /* TULEDImageFileSchema.m in Sources */ = {isa = PBXBuildFile; fileRef = 32A566EA10CC76750046F74C /* TULEDImageFileSchema.m */; };
+		32A566F710CC79FC0046F74C /* TULEDs.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 32A566F610CC79FC0046F74C /* TULEDs.bundle */; };
+		32A5675E10CC9A570046F74C /* TULEDImageFileSchema.m in Sources */ = {isa = PBXBuildFile; fileRef = 32A566EA10CC76750046F74C /* TULEDImageFileSchema.m */; };
 		AA747D9F0F9514B9006C5449 /* TULEDIndicatorViews_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = AA747D9E0F9514B9006C5449 /* TULEDIndicatorViews_Prefix.pch */; };
 		AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3201D95310CED9AB002B5A73 /* TULEDIndicatorView+Convenience.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "TULEDIndicatorView+Convenience.h"; sourceTree = "<group>"; };
+		3201D95410CED9AB002B5A73 /* TULEDIndicatorView+Convenience.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "TULEDIndicatorView+Convenience.m"; sourceTree = "<group>"; };
 		3279F8B110B5C47D00962C75 /* TULEDIndicatorViewsUnitTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TULEDIndicatorViewsUnitTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3279F8B210B5C47D00962C75 /* TULEDIndicatorViewsUnitTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TULEDIndicatorViewsUnitTests-Info.plist"; sourceTree = "<group>"; };
 		3279F8B910B5C6FF00962C75 /* TULEDIndicatorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TULEDIndicatorView.h; sourceTree = "<group>"; };
@@ -24,6 +34,9 @@
 		3279F8BD10B5C71300962C75 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		3279F8BE10B5C71300962C75 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		3279F8C510B5C71F00962C75 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		32A566E910CC76750046F74C /* TULEDImageFileSchema.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TULEDImageFileSchema.h; sourceTree = "<group>"; };
+		32A566EA10CC76750046F74C /* TULEDImageFileSchema.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TULEDImageFileSchema.m; sourceTree = "<group>"; };
+		32A566F610CC79FC0046F74C /* TULEDs.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = TULEDs.bundle; sourceTree = "<group>"; };
 		AA747D9E0F9514B9006C5449 /* TULEDIndicatorViews_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TULEDIndicatorViews_Prefix.pch; sourceTree = SOURCE_ROOT; };
 		AACBBE490F95108600F1A2B1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D2AAC07E0554694100DB518D /* libTULEDIndicatorViews.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libTULEDIndicatorViews.a; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,6 +101,10 @@
 			children = (
 				3279F8B910B5C6FF00962C75 /* TULEDIndicatorView.h */,
 				3279F8BA10B5C6FF00962C75 /* TULEDIndicatorView.m */,
+				32A566E910CC76750046F74C /* TULEDImageFileSchema.h */,
+				32A566EA10CC76750046F74C /* TULEDImageFileSchema.m */,
+				3201D95310CED9AB002B5A73 /* TULEDIndicatorView+Convenience.h */,
+				3201D95410CED9AB002B5A73 /* TULEDIndicatorView+Convenience.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -95,6 +112,7 @@
 		32C88DFF0371C24200C91783 /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
+				32A566F610CC79FC0046F74C /* TULEDs.bundle */,
 				AA747D9E0F9514B9006C5449 /* TULEDIndicatorViews_Prefix.pch */,
 			);
 			name = "Other Sources";
@@ -109,6 +127,8 @@
 			files = (
 				AA747D9F0F9514B9006C5449 /* TULEDIndicatorViews_Prefix.pch in Headers */,
 				3279F8BB10B5C6FF00962C75 /* TULEDIndicatorView.h in Headers */,
+				32A566EB10CC76750046F74C /* TULEDImageFileSchema.h in Headers */,
+				3201D95510CED9AB002B5A73 /* TULEDIndicatorView+Convenience.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -174,6 +194,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32A566F710CC79FC0046F74C /* TULEDs.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -200,6 +221,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32A566EC10CC76750046F74C /* TULEDImageFileSchema.m in Sources */,
+				3201D9B610CEF509002B5A73 /* TULEDIndicatorView.m in Sources */,
+				3201D95610CED9AB002B5A73 /* TULEDIndicatorView+Convenience.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -207,6 +231,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3201D9C610CEFC72002B5A73 /* TULEDIndicatorView+Convenience.m in Sources */,
+				32A5675E10CC9A570046F74C /* TULEDImageFileSchema.m in Sources */,
 				3279F8BC10B5C6FF00962C75 /* TULEDIndicatorView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

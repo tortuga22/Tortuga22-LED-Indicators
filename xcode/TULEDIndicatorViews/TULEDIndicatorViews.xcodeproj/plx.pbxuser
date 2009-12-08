@@ -5,6 +5,7 @@
 		activeTarget = D2AAC07D0554694100DB518D /* TULEDIndicatorViews */;
 		addToTargets = (
 			D2AAC07D0554694100DB518D /* TULEDIndicatorViews */,
+			3279F8B010B5C47D00962C75 /* TULEDIndicatorViewsUnitTests */,
 		);
 		codeSenseManager = 3279F8AB10B5C46A00962C75 /* Code sense */;
 		perUserDictionary = {
@@ -13,7 +14,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					1152,
+					912,
 					20,
 					48,
 					43,
@@ -35,10 +36,10 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					220,
+					872,
 					60,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 				);
@@ -52,28 +53,242 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 280347723;
-			PBXWorkspaceStateSaveDate = 280347723;
+			PBXPerProjectTemplateStateSaveDate = 281986748;
+			PBXWorkspaceStateSaveDate = 281986748;
 		};
 		perUserProjectItems = {
-			3279F8CD10B6378000962C75 /* PBXTextBookmark */ = 3279F8CD10B6378000962C75 /* PBXTextBookmark */;
-			3279F8CE10B6378000962C75 /* PBXTextBookmark */ = 3279F8CE10B6378000962C75 /* PBXTextBookmark */;
-			3279F8CF10B6378000962C75 /* PBXTextBookmark */ = 3279F8CF10B6378000962C75 /* PBXTextBookmark */;
-			3279F8D010B6378000962C75 /* PBXTextBookmark */ = 3279F8D010B6378000962C75 /* PBXTextBookmark */;
-			3279F8D110B6378000962C75 /* PBXTextBookmark */ = 3279F8D110B6378000962C75 /* PBXTextBookmark */;
-			3279F8D210B6378000962C75 /* PBXTextBookmark */ = 3279F8D210B6378000962C75 /* PBXTextBookmark */;
-			3279F8D310B6378000962C75 /* PBXTextBookmark */ = 3279F8D310B6378000962C75 /* PBXTextBookmark */;
-			3279F8D410B6378000962C75 /* PBXTextBookmark */ = 3279F8D410B6378000962C75 /* PBXTextBookmark */;
+			3201D9B910CEF50C002B5A73 /* PBXTextBookmark */ = 3201D9B910CEF50C002B5A73 /* PBXTextBookmark */;
+			3201D9BA10CEF50C002B5A73 /* PBXTextBookmark */ = 3201D9BA10CEF50C002B5A73 /* PBXTextBookmark */;
+			3201D9BB10CEF50C002B5A73 /* PBXTextBookmark */ = 3201D9BB10CEF50C002B5A73 /* PBXTextBookmark */;
+			3201D9BC10CEF50C002B5A73 /* PBXTextBookmark */ = 3201D9BC10CEF50C002B5A73 /* PBXTextBookmark */;
+			3201D9BD10CEF50C002B5A73 /* PBXTextBookmark */ = 3201D9BD10CEF50C002B5A73 /* PBXTextBookmark */;
+			3201D9BE10CEF50C002B5A73 /* PBXTextBookmark */ = 3201D9BE10CEF50C002B5A73 /* PBXTextBookmark */;
+			3201D9BF10CEF50C002B5A73 /* PlistBookmark */ = 3201D9BF10CEF50C002B5A73 /* PlistBookmark */;
+			3201D9C010CEF50C002B5A73 /* PlistBookmark */ = 3201D9C010CEF50C002B5A73 /* PlistBookmark */;
+			3201D9CA10CEFC8B002B5A73 /* PlistBookmark */ = 3201D9CA10CEFC8B002B5A73 /* PlistBookmark */;
+			3201D9CB10CEFC8B002B5A73 /* PBXTextBookmark */ = 3201D9CB10CEFC8B002B5A73 /* PBXTextBookmark */;
+			3201D9CC10CEFC8B002B5A73 /* XCBuildMessageTextBookmark */ = 3201D9CC10CEFC8B002B5A73 /* XCBuildMessageTextBookmark */;
+			3201D9CD10CEFC8B002B5A73 /* PBXTextBookmark */ = 3201D9CD10CEFC8B002B5A73 /* PBXTextBookmark */;
+			3201D9D210CEFC98002B5A73 /* PBXTextBookmark */ = 3201D9D210CEFC98002B5A73 /* PBXTextBookmark */;
+			3201D9D310CEFD61002B5A73 /* PBXTextBookmark */ = 3201D9D310CEFD61002B5A73 /* PBXTextBookmark */;
+			3201D9D410CEFF16002B5A73 /* PBXTextBookmark */ = 3201D9D410CEFF16002B5A73 /* PBXTextBookmark */;
+			3201D9D510CEFF16002B5A73 /* PBXTextBookmark */ = 3201D9D510CEFF16002B5A73 /* PBXTextBookmark */;
+			3201D9D610CEFF16002B5A73 /* PBXTextBookmark */ = 3201D9D610CEFF16002B5A73 /* PBXTextBookmark */;
+			3201D9D710CEFF16002B5A73 /* PBXTextBookmark */ = 3201D9D710CEFF16002B5A73 /* PBXTextBookmark */;
+			32A5678210CE01FB0046F74C = 32A5678210CE01FB0046F74C /* PBXTextBookmark */;
+			32A5678310CE01FB0046F74C = 32A5678310CE01FB0046F74C /* PBXTextBookmark */;
+			32A5678410CE01FB0046F74C = 32A5678410CE01FB0046F74C /* PBXTextBookmark */;
+			32A5678510CE01FB0046F74C = 32A5678510CE01FB0046F74C /* PBXTextBookmark */;
+			32A5678610CE01FB0046F74C = 32A5678610CE01FB0046F74C /* PBXTextBookmark */;
 		};
 		sourceControlManager = 3279F8AA10B5C46A00962C75 /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	3201D95310CED9AB002B5A73 /* TULEDIndicatorView+Convenience.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1605.03, 1659}}";
+			sepNavSelRange = "{2430, 0}";
+			sepNavVisRange = "{1688, 1694}";
+		};
+	};
+	3201D95410CED9AB002B5A73 /* TULEDIndicatorView+Convenience.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1615.86, 6804}}";
+			sepNavSelRange = "{8573, 0}";
+			sepNavVisRange = "{8261, 1133}";
+		};
+	};
+	3201D9B910CEF50C002B5A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A566EA10CC76750046F74C /* TULEDImageFileSchema.m */;
+		name = "TULEDImageFileSchema.m: 10";
+		rLen = 0;
+		rLoc = 150;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 0;
+	};
+	3201D9BA10CEF50C002B5A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3279F8BA10B5C6FF00962C75 /* TULEDIndicatorView.m */;
+		name = "TULEDIndicatorView.m: 21";
+		rLen = 0;
+		rLoc = 429;
+		rType = 0;
+		vrLen = 622;
+		vrLoc = 0;
+	};
+	3201D9BB10CEF50C002B5A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A566E910CC76750046F74C /* TULEDImageFileSchema.h */;
+		name = "TULEDImageFileSchema.h: 11";
+		rLen = 15;
+		rLoc = 185;
+		rType = 0;
+		vrLen = 870;
+		vrLoc = 0;
+	};
+	3201D9BC10CEF50C002B5A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3279F8B910B5C6FF00962C75 /* TULEDIndicatorView.h */;
+		name = "TULEDIndicatorView.h: 126";
+		rLen = 93;
+		rLoc = 5050;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 4360;
+	};
+	3201D9BD10CEF50C002B5A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3201D95410CED9AB002B5A73 /* TULEDIndicatorView+Convenience.m */;
+		name = "TULEDIndicatorView+Convenience.m: 45";
+		rLen = 0;
+		rLoc = 1152;
+		rType = 0;
+		vrLen = 884;
+		vrLoc = 703;
+	};
+	3201D9BE10CEF50C002B5A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3201D95310CED9AB002B5A73 /* TULEDIndicatorView+Convenience.h */;
+		name = "TULEDIndicatorView+Convenience.h: 18";
+		rLen = 0;
+		rLoc = 477;
+		rType = 0;
+		vrLen = 1181;
+		vrLoc = 0;
+	};
+	3201D9BF10CEF50C002B5A73 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 3279F8B210B5C47D00962C75 /* TULEDIndicatorViewsUnitTests-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorViewsUnitTests-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	3201D9C010CEF50C002B5A73 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 3279F8B210B5C47D00962C75 /* TULEDIndicatorViewsUnitTests-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorViewsUnitTests-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	3201D9CA10CEFC8B002B5A73 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 3279F8B210B5C47D00962C75 /* TULEDIndicatorViewsUnitTests-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorViewsUnitTests-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	3201D9CB10CEFC8B002B5A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3201D95310CED9AB002B5A73 /* TULEDIndicatorView+Convenience.h */;
+		name = "TULEDIndicatorView+Convenience.h: 72";
+		rLen = 0;
+		rLoc = 4153;
+		rType = 0;
+		vrLen = 1706;
+		vrLoc = 2554;
+	};
+	3201D9CC10CEFC8B002B5A73 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Request for member 'offImage' in something not a structure or union";
+		fRef = 3201D95410CED9AB002B5A73 /* TULEDIndicatorView+Convenience.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 270;
+		rType = 1;
+	};
+	3201D9CD10CEFC8B002B5A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3201D95410CED9AB002B5A73 /* TULEDIndicatorView+Convenience.m */;
+		name = "TULEDIndicatorView+Convenience.m: 278";
+		rLen = 0;
+		rLoc = 8705;
+		rType = 0;
+		vrLen = 850;
+		vrLoc = 8145;
+	};
+	3201D9D210CEFC98002B5A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3201D95410CED9AB002B5A73 /* TULEDIndicatorView+Convenience.m */;
+		name = "TULEDIndicatorView+Convenience.m: 274";
+		rLen = 0;
+		rLoc = 8573;
+		rType = 0;
+		vrLen = 1133;
+		vrLoc = 8261;
+	};
+	3201D9D310CEFD61002B5A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3201D95410CED9AB002B5A73 /* TULEDIndicatorView+Convenience.m */;
+		name = "TULEDIndicatorView+Convenience.m: 274";
+		rLen = 0;
+		rLoc = 8573;
+		rType = 0;
+		vrLen = 1133;
+		vrLoc = 8261;
+	};
+	3201D9D410CEFF16002B5A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3201D95410CED9AB002B5A73 /* TULEDIndicatorView+Convenience.m */;
+		name = "TULEDIndicatorView+Convenience.m: 274";
+		rLen = 0;
+		rLoc = 8573;
+		rType = 0;
+		vrLen = 1133;
+		vrLoc = 8261;
+	};
+	3201D9D510CEFF16002B5A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3201D95310CED9AB002B5A73 /* TULEDIndicatorView+Convenience.h */;
+		name = "TULEDIndicatorView+Convenience.h: 47";
+		rLen = 0;
+		rLoc = 2430;
+		rType = 0;
+		vrLen = 1694;
+		vrLoc = 1688;
+	};
+	3201D9D610CEFF16002B5A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3279F8BA10B5C6FF00962C75 /* TULEDIndicatorView.m */;
+		name = "TULEDIndicatorView.m: 21";
+		rLen = 0;
+		rLoc = 429;
+		rType = 0;
+		vrLen = 622;
+		vrLoc = 0;
+	};
+	3201D9D710CEFF16002B5A73 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A566E910CC76750046F74C /* TULEDImageFileSchema.h */;
+		name = "TULEDImageFileSchema.h: 11";
+		rLen = 15;
+		rLoc = 185;
+		rType = 0;
+		vrLen = 870;
+		vrLoc = 0;
 	};
 	3279F8AA10B5C46A00962C75 /* Source Control */ = {
 		isa = PBXSourceControlManager;
 		fallbackIsa = XCSourceControlManager;
 		isSCMEnabled = 0;
 		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
 		};
 	};
 	3279F8AB10B5C46A00962C75 /* Code sense */ = {
@@ -85,97 +300,82 @@
 	};
 	3279F8B910B5C6FF00962C75 /* TULEDIndicatorView.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1330, 854}}";
-			sepNavSelRange = "{1528, 0}";
-			sepNavVisRange = "{260, 1664}";
+			sepNavIntBoundsRect = "{{0, 0}, {3913.29, 2688}}";
+			sepNavSelRange = "{5050, 93}";
+			sepNavVisRange = "{4360, 1012}";
 		};
 	};
 	3279F8BA10B5C6FF00962C75 /* TULEDIndicatorView.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1404, 2128}}";
-			sepNavSelRange = "{1455, 0}";
-			sepNavVisRange = "{0, 1925}";
+			sepNavIntBoundsRect = "{{0, 0}, {1090, 6300}}";
+			sepNavSelRange = "{429, 0}";
+			sepNavVisRange = "{0, 622}";
 		};
 	};
-	3279F8CD10B6378000962C75 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3279F8B910B5C6FF00962C75 /* TULEDIndicatorView.h */;
-		name = "TULEDIndicatorView.h: 47";
-		rLen = 0;
-		rLoc = 1528;
-		rType = 0;
-		vrLen = 1664;
-		vrLoc = 260;
+	32A566E910CC76750046F74C /* TULEDImageFileSchema.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1919.3, 1260}}";
+			sepNavSelRange = "{185, 15}";
+			sepNavVisRange = "{0, 870}";
+		};
 	};
-	3279F8CE10B6378000962C75 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3279F8BA10B5C6FF00962C75 /* TULEDIndicatorView.m */;
-		name = "TULEDIndicatorView.m: 56";
-		rLen = 0;
-		rLoc = 2797;
-		rType = 0;
-		vrLen = 915;
-		vrLoc = 1766;
+	32A566EA10CC76750046F74C /* TULEDImageFileSchema.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1485.82, 4788}}";
+			sepNavSelRange = "{150, 0}";
+			sepNavVisRange = "{0, 601}";
+			sepNavWindowFrame = "{{64, 315}, {750, 558}}";
+		};
 	};
-	3279F8CF10B6378000962C75 /* PBXTextBookmark */ = {
+	32A5678210CE01FB0046F74C /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 3279F8B910B5C6FF00962C75 /* TULEDIndicatorView.h */;
-		name = "TULEDIndicatorView.h: 21";
-		rLen = 1502;
-		rLoc = 416;
-		rType = 0;
-		vrLen = 1559;
-		vrLoc = 299;
-	};
-	3279F8D010B6378000962C75 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 3279F8BA10B5C6FF00962C75 /* TULEDIndicatorView.m */;
-		name = "TULEDIndicatorView.m: 29";
+		fRef = 32A566EA10CC76750046F74C /* TULEDImageFileSchema.m */;
+		name = "TULEDImageFileSchema.m: 1";
 		rLen = 0;
-		rLoc = 1460;
+		rLoc = 0;
 		rType = 0;
-		vrLen = 1436;
+		vrLen = 637;
 		vrLoc = 0;
 	};
-	3279F8D110B6378000962C75 /* PBXTextBookmark */ = {
+	32A5678310CE01FB0046F74C /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 3279F8B910B5C6FF00962C75 /* TULEDIndicatorView.h */;
-		name = "TULEDIndicatorView.h: 35";
-		rLen = 0;
-		rLoc = 1106;
+		fRef = 32A566E910CC76750046F74C /* TULEDImageFileSchema.h */;
+		name = "TULEDImageFileSchema.h: 23";
+		rLen = 525;
+		rLoc = 524;
 		rType = 0;
-		vrLen = 1658;
-		vrLoc = 260;
+		vrLen = 940;
+		vrLoc = 280;
 	};
-	3279F8D210B6378000962C75 /* PBXTextBookmark */ = {
+	32A5678410CE01FB0046F74C /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 3279F8BA10B5C6FF00962C75 /* TULEDIndicatorView.m */;
-		name = "TULEDIndicatorView.m: 56";
+		name = "TULEDIndicatorView.m: 142";
 		rLen = 0;
-		rLoc = 2797;
+		rLoc = 10645;
 		rType = 0;
-		vrLen = 901;
-		vrLoc = 1780;
+		vrLen = 816;
+		vrLoc = 4896;
 	};
-	3279F8D310B6378000962C75 /* PBXTextBookmark */ = {
+	32A5678510CE01FB0046F74C /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 3279F8B910B5C6FF00962C75 /* TULEDIndicatorView.h */;
-		name = "TULEDIndicatorView.h: 47";
+		name = "TULEDIndicatorView.h: 75";
 		rLen = 0;
-		rLoc = 1528;
+		rLoc = 5372;
 		rType = 0;
-		vrLen = 1664;
-		vrLoc = 260;
+		vrLen = 1046;
+		vrLoc = 2185;
 	};
-	3279F8D410B6378000962C75 /* PBXTextBookmark */ = {
+	32A5678610CE01FB0046F74C /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 3279F8BA10B5C6FF00962C75 /* TULEDIndicatorView.m */;
-		name = "TULEDIndicatorView.m: 34";
+		fRef = 3279F8B910B5C6FF00962C75 /* TULEDIndicatorView.h */;
+		name = "TULEDIndicatorView.h: 51";
 		rLen = 0;
-		rLoc = 1455;
+		rLoc = 4575;
 		rType = 0;
-		vrLen = 1925;
-		vrLoc = 0;
+		vrLen = 1046;
+		vrLoc = 2185;
 	};
 	D2AAC07D0554694100DB518D /* TULEDIndicatorViews */ = {
 		activeExec = 0;

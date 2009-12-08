@@ -1,0 +1,31 @@
+In file included from /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:9:
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.h:17: error: expected ')' before 'CGFloat'
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.h:17: error: expected ')' before 'CGFloat'
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.h:18: error: expected ')' before 'UIImage'
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.h:18: error: expected ')' before 'CGFloat'
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.h:18: error: expected ')' before 'CGFloat'
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:24: error: expected ')' before 'CGFloat'
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:24: error: expected ')' before 'CGFloat'
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m: In function '-[TULEDImageFileSchema pathForOnImageForColor:activation:width:height:]':
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:27: error: 'CGFloat' undeclared (first use in this function)
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:27: error: (Each undeclared identifier is reported only once
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:27: error: for each function it appears in.)
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:27: error: expected ';' before 'largerDimension'
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:31: error: 'largerDimension' undeclared (first use in this function)
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:43: error: expected ']' before '=' token
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:46: warning: 'NSBundle' may not respond to '+path'
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:46: warning: (Messages without a matching method signature
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:46: warning: will be assumed to return 'id' and accept
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:46: warning: '...' as arguments.)
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:46: error: expected ',' or ';' before '}' token
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:48: error: 'UIImage' undeclared (first use in this function)
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:48: error: expected expression before ')' token
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:53: error: expected declaration or statement at end of input
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:42: warning: unused variable 'lookupBundle'
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:53: error: expected declaration or statement at end of input
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:25: warning: unused variable 'path'
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:53: warning: control reaches end of non-void function
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m: At top level:
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:53: warning: '@end' missing in implementation context
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:53: warning: incomplete implementation of class 'TULEDImageFileSchema'
+/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m:53: warning: method definition for '-imageForColor:activatin:width:height:' not found
