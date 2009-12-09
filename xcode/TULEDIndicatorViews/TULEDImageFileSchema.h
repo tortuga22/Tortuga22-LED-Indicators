@@ -16,7 +16,7 @@
 #define TULEDColorUV (@"uv")
 #define TULEDColorWhite (@"white")
 
-#define TULEDOnOffStringOfBool(INPUT) (( INPUT )?(YES):(NO))
+#define TULEDOnOffStringOfBool(INPUT) (( INPUT )?(@"on"):(@"off"))
 
 #define TULEDClassDefaultBundleName (@"TULEDs")
 

@@ -2,7 +2,6 @@
 //  TULEDIndicatorView+Convenience
 //  TULEDIndicatorViews
 //
-//  Created by Paul Berman on 12/8/09.
 //  Copyright 2009 Tortuga 22, Inc. All rights reserved.
 //
 
@@ -278,6 +277,8 @@
 											   height:CGRectGetHeight(self.bounds)];
 		
 	}
+	NSLog(@"self: '%@', onImage: '%@', offImage: '%@'.",self,self.onIndicatorImage,self.offIndicatorImage);
+	[self setNeedsDisplay];
 }
 
 #pragma mark Convenience Set-Up - KVO

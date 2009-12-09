@@ -29,7 +29,7 @@
 -(void)setIndicatorLightIsSwitchedOn:(BOOL)newValue {
 	if (newValue != self.indicatorLightIsSwitchedOn) {
 		[self willChangeValueForKey:@"indicatorLightIsSwitchedOn"];
-		self.indicatorLightIsSwitchedOn = newValue;
+		_indicatorLightIsSwitchedOn = newValue;
 		[self didChangeValueForKey:@"indicatorLightIsSwitchedOn"];
 		[self setNeedsDisplay];
 	}
@@ -142,6 +142,8 @@
 	UIImage *onIndicatorImage = [self onIndicatorImage];
 	if (onIndicatorImage) {
 		[onIndicatorImage drawInRect:rect];
+		//CGContextRef context = UIGraphicsGetCurrentContext();
+		//CGContextDrawImage(context, rect, [onIndicatorImage CGImage]);
 	}
 }
 
@@ -149,6 +151,8 @@
 	UIImage *offIndicatorImage = [self offIndicatorImage];
 	if (offIndicatorImage) {
 		[offIndicatorImage drawInRect:rect];
+		//CGContextRef context = UIGraphicsGetCurrentContext();
+		//CGContextDrawImage(context, rect, [offIndicatorImage CGImage]);
 	}
 }
 

@@ -45,19 +45,24 @@
 		@try {
 			NSString *targetBundleName = [[self class] classDefaultBundleName];
 			if (targetBundleName) {
+				NSLog(@"Trying to load bundle at %@.", targetBundleName);
 				NSBundle *mainBundle = [NSBundle mainBundle];
 				if (mainBundle) {
-					NSString *pathToBundle = [mainBundle pathForResource:targetBundleName ofType:@".bundle"];
+					NSLog(@"Loaded mainBundle: %@.", mainBundle);
+					NSString *pathToBundle = [[mainBundle resourcePath] stringByAppendingPathComponent:[NSString stringWithFormat:@"%@.bundle",targetBundleName]];
+					NSLog(@"pathToBundle: %@.", pathToBundle);
 					if (pathToBundle) {
 						loadBundle = [[NSBundle alloc] initWithPath:pathToBundle];
+						NSLog(@"loadBundle: %@.",loadBundle);
 					}
 				}
 			} else {
+				NSLog(@"Can't load bundle at %@.", targetBundleName);
 				cannotLoadBundle = YES;
 			}
-
 		}
 		@catch (NSException * e) {
+			NSLog(@"Caught Exception Loading Bundle: %@, %@, %@.", e, [e description], [e userInfo]);
 			loadBundle = nil;
 			cannotLoadBundle = YES;
 		}		
@@ -95,6 +100,7 @@
 -(NSString *)filenameForImageForColor:(NSString *)color activation:(BOOL)isOn width:(CGFloat)width height:(CGFloat)height includeExtension:(BOOL)includeExtension {
 	NSString *filenameForImageForColor = nil;
 	if (color) {
+		NSLog(@"looking up filename for color: '%@' width: '%f' height: '%f'.",color,width,height);
 		@try {
 			CGFloat largerDimension = (width < height)?(height):(width);
 			NSInteger effectiveSize = 256;
@@ -118,9 +124,11 @@
 			}
 		}
 		@catch (NSException * e) {
+			NSLog(@"Caught exception: '%@', '%@', '%@'.",e,[e description],[e userInfo]);
 			filenameForImageForColor = nil;
 		}
 	}
+	NSLog(@"Returning: '%@' for color: '%@' on: '%d' width:'%f' height:'%f' extension:'%d'.",filenameForImageForColor,color,isOn,width,height,includeExtension);
 	return filenameForImageForColor;
 }
 
@@ -142,6 +150,7 @@
 			pathForExtensionlessFilename = [bundle pathForResource:filename ofType:@"png"];
 		}
 		@catch (NSException * e) {
+			NSLog(@"Caught exception: '%@', '%@', '%@'.",e,[e description],[e userInfo]);
 			pathForExtensionlessFilename = nil;
 		}
 	}
@@ -164,7 +173,7 @@
 -(NSString *)pathForImageForColor:(NSString *)color activation:(BOOL)isOn width:(CGFloat)width height:(CGFloat)height {
 	NSString *pathForImageForColor = nil;
 	NSBundle *targetBundle = [self loadBundle];
-	if (pathForImageForColor) {
+	if (color) {
 		@try {
 			pathForImageForColor = [self pathForExtensionlessFilename:[self filenameForImageForColor:color 
 																						  activation:isOn 
@@ -173,6 +182,7 @@
 															 inBundle:targetBundle];
 		}
 		@catch (NSException * e) {
+			NSLog(@"Caught exception: '%@', '%@', '%@'.",e,[e description],[e userInfo]);
 			pathForImageForColor = nil;
 		}
 	}
@@ -193,7 +203,11 @@
 */
 -(UIImage *)imageForColor:(NSString *)color activation:(BOOL)isOn width:(CGFloat)width height:(CGFloat)height {
 	UIImage *imageForColor = nil;
-	NSString *pathForImageForColor = [self pathForImageForColor:color activation:isOn width:width height:height];
+	NSString *pathForImageForColor = [self pathForImageForColor:color 
+													 activation:isOn 
+														  width:width 
+														 height:height];
+	NSLog(@"pathForImageForColor: '%@'.",pathForImageForColor);
 	if (pathForImageForColor) {
 		@try {
 			imageForColor = [UIImage imageWithContentsOfFile:pathForImageForColor];
