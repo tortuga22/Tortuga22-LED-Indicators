@@ -12,6 +12,7 @@ The library gives you three options for controlling the LEDs:
 
 ...so integrating this code into an existing application's views won't require heavy lifting. The views use prerendered PNGs and will include convenience methods that will automatically select the appropriately-sized raw images to use.
 
+
 USING IT
 
 To use this library in your project you need to do two things.
@@ -73,7 +74,13 @@ self.connectionAvailableIndicator = [TULEDIndicator greenLEDIndicatorWithFrame:f
 
 ...as setting inverting==YES means that for purposes of KVO-driven updates the LED Indicator treats a YES @ the monitored keyPath as a NO and vice-versa; this lets you avoid having to extend or rewrite pre-existing code to get it to work correctly with the LED Indicator.
 
-For manually-driven state changes you don't se invert; you just hand-wire the appropriate calls in response to the appropriate situations or notifications.
+For manually-driven state changes you don't use invert; if you're wiring things up by hand wire them up right.
+
+MORE INFO
+
+The TULEDIndicatorViewsDemo has some simple example code showing how to use TULEDIndicatorViews in your project. Read the source to see how everything works, and run it in the simulator to see how the LEDs look.
+
+
 
 FAQ:
 

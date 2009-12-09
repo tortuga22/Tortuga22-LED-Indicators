@@ -94,21 +94,15 @@
 			PBXWorkspaceStateSaveDate = 282075236;
 		};
 		perUserProjectItems = {
-			3247AB2B10CF61A600FBD8C5 = 3247AB2B10CF61A600FBD8C5 /* PBXTextBookmark */;
-			3247AB2F10CF61A600FBD8C5 = 3247AB2F10CF61A600FBD8C5 /* PBXBookmark */;
-			3247AB6B10D00CCC00FBD8C5 = 3247AB6B10D00CCC00FBD8C5 /* PBXTextBookmark */;
-			3247ABCD10D0184600FBD8C5 = 3247ABCD10D0184600FBD8C5 /* PBXTextBookmark */;
-			3247ABCE10D0184600FBD8C5 = 3247ABCE10D0184600FBD8C5 /* PBXTextBookmark */;
-			3247ABCF10D0184600FBD8C5 = 3247ABCF10D0184600FBD8C5 /* PBXTextBookmark */;
-			3247ABD010D0184600FBD8C5 = 3247ABD010D0184600FBD8C5 /* PBXTextBookmark */;
-			3247ABD110D0184600FBD8C5 = 3247ABD110D0184600FBD8C5 /* PBXTextBookmark */;
-			3247ABD310D01EE300FBD8C5 = 3247ABD310D01EE300FBD8C5 /* PBXTextBookmark */;
-			3247ABE110D0207300FBD8C5 /* PBXTextBookmark */ = 3247ABE110D0207300FBD8C5 /* PBXTextBookmark */;
-			3247ABE210D0207300FBD8C5 /* PBXTextBookmark */ = 3247ABE210D0207300FBD8C5 /* PBXTextBookmark */;
-			3247ABE310D0207300FBD8C5 /* PBXTextBookmark */ = 3247ABE310D0207300FBD8C5 /* PBXTextBookmark */;
+			3247AB2B10CF61A600FBD8C5 /* PBXTextBookmark */ = 3247AB2B10CF61A600FBD8C5 /* PBXTextBookmark */;
+			3247AB2F10CF61A600FBD8C5 /* PBXBookmark */ = 3247AB2F10CF61A600FBD8C5 /* PBXBookmark */;
+			3247ABCD10D0184600FBD8C5 /* PBXTextBookmark */ = 3247ABCD10D0184600FBD8C5 /* PBXTextBookmark */;
+			3247ABCE10D0184600FBD8C5 /* PBXTextBookmark */ = 3247ABCE10D0184600FBD8C5 /* PBXTextBookmark */;
+			3247ABCF10D0184600FBD8C5 /* PBXTextBookmark */ = 3247ABCF10D0184600FBD8C5 /* PBXTextBookmark */;
+			3247ABD010D0184600FBD8C5 /* PBXTextBookmark */ = 3247ABD010D0184600FBD8C5 /* PBXTextBookmark */;
 			3247ABF210D0208500FBD8C5 /* PBXTextBookmark */ = 3247ABF210D0208500FBD8C5 /* PBXTextBookmark */;
 			3247ABF310D0208500FBD8C5 /* PBXTextBookmark */ = 3247ABF310D0208500FBD8C5 /* PBXTextBookmark */;
-			3247ABF410D0208500FBD8C5 /* PBXTextBookmark */ = 3247ABF410D0208500FBD8C5 /* PBXTextBookmark */;
+			3247ABFB10D0260F00FBD8C5 /* PBXTextBookmark */ = 3247ABFB10D0260F00FBD8C5 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 3201D9EC10CF314D002B5A73 /* Source Control */;
 		userBuildSettings = {
@@ -205,16 +199,6 @@
 		path = "/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDs.bundle/amber-off-32.png";
 		sourceTree = "<absolute>";
 	};
-	3247AB6B10D00CCC00FBD8C5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF60DDB3853001CB0EB /* TULEDIndicatorViewsDemoViewController.h */;
-		name = "TULEDIndicatorViewsDemoViewController.h: 30";
-		rLen = 0;
-		rLoc = 919;
-		rType = 0;
-		vrLen = 1075;
-		vrLoc = 688;
-	};
 	3247ABCD10D0184600FBD8C5 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 3247AAB710CF51AB00FBD8C5 /* TULEDKVOFlipFlop.m */;
@@ -255,53 +239,6 @@
 		vrLen = 533;
 		vrLoc = 0;
 	};
-	3247ABD110D0184600FBD8C5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* TULEDIndicatorViewsDemoAppDelegate.m */;
-		name = "TULEDIndicatorViewsDemoAppDelegate.m: 23";
-		rLen = 0;
-		rLoc = 552;
-		rType = 0;
-		vrLen = 482;
-		vrLoc = 174;
-	};
-	3247ABD310D01EE300FBD8C5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* TULEDIndicatorViewsDemoAppDelegate.m */;
-		name = "TULEDIndicatorViewsDemoAppDelegate.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 626;
-		vrLoc = 0;
-	};
-	3247ABE110D0207300FBD8C5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28D7ACF60DDB3853001CB0EB /* TULEDIndicatorViewsDemoViewController.h */;
-		name = "TULEDIndicatorViewsDemoViewController.h: 5";
-		rLen = 0;
-		rLoc = 78;
-		rType = 0;
-		vrLen = 195;
-		vrLoc = 0;
-	};
-	3247ABE210D0207300FBD8C5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
-		rLen = 0;
-		rLoc = 45;
-		rType = 0;
-	};
-	3247ABE310D0207300FBD8C5 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
-		name = "main.m: 5";
-		rLen = 0;
-		rLoc = 45;
-		rType = 0;
-		vrLen = 131;
-		vrLoc = 0;
-	};
 	3247ABF210D0208500FBD8C5 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* TULEDIndicatorViewsDemoAppDelegate.m */;
@@ -319,7 +256,7 @@
 		rLoc = 78;
 		rType = 0;
 	};
-	3247ABF410D0208500FBD8C5 /* PBXTextBookmark */ = {
+	3247ABFB10D0260F00FBD8C5 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28D7ACF60DDB3853001CB0EB /* TULEDIndicatorViewsDemoViewController.h */;
 		name = "TULEDIndicatorViewsDemoViewController.h: 5";

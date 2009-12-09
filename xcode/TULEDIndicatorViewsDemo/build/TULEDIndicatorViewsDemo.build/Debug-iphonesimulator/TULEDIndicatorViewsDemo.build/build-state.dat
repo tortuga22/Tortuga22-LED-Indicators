@@ -101,9 +101,9 @@ i"TULEDIndicatorViewsDemoAppDelegate.h"
 i"TULEDIndicatorViewsDemoViewController.h"
 
 N/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViewsDemo/Classes/TULEDIndicatorViewsDemoViewController.h
-c000000004B1F2A820000000000000B96
-t1260333698
-s2966
+c000000004B1FE8ED0000000000000B6F
+t1260382445
+s2927
 i<UIKit/UIKit.h>
 i<TULEDIndicatorViews.h>
 
@@ -197,9 +197,9 @@ t1260326091
 s6068
 
 N/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViewsDemo/main.m
-c000000004B1EF9C30000000000000176
-t1260321219
-s374
+c000000004B1FE8F1000000000000014F
+t1260382449
+s335
 i<UIKit/UIKit.h>
 
 N/var/folders/SJ/SJYubbTsFFGzyLy3agtv5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TULEDIndicatorViewsDemo_Prefix-ddboshfsonrfurfysmwztnacqzvr/TULEDIndicatorViewsDemo_Prefix.pch.gch
