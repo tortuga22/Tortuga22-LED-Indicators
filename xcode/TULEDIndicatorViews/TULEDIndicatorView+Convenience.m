@@ -277,7 +277,6 @@
 											   height:CGRectGetHeight(self.bounds)];
 		
 	}
-	NSLog(@"self: '%@', onImage: '%@', offImage: '%@'.",self,self.onIndicatorImage,self.offIndicatorImage);
 	[self setNeedsDisplay];
 }
 

@@ -54,7 +54,6 @@
 }
 
 -(void)handleCallbackFromTimer:(NSTimer *)timer {
-	NSLog(@"handling callback from timer: '%@'.",timer);
 	@synchronized(self) {
 		self.remainingFlipFlopsBeforeReroll -= 1;
 		if (self.remainingFlipFlopsBeforeReroll <= 0) {

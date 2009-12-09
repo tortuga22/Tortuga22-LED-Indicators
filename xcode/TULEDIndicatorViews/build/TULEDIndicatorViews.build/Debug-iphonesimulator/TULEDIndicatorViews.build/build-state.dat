@@ -1,7 +1,7 @@
 TTULEDIndicatorViews
 v7
 r0
-t282072569.463058
+t282087975.494582
 cCheck dependencies
 cProcessPCH /var/folders/SJ/SJYubbTsFFGzyLy3agtv5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TULEDIndicatorViews_Prefix-bihofuswoxqkdeerynhcvezbiktd/TULEDIndicatorViews_Prefix.pch.gch TULEDIndicatorViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorView+Convenience.o /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView+Convenience.m normal i386 objective-c com.apple.compilers.gcc.4_2
@@ -52,9 +52,9 @@ i<Foundation/Foundation.h>
 i<UIKit/UIKit.h>
 
 N/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m
-c000000004B1FDDCA0000000000002361
-t1260379594
-s9057
+c000000004B201A9A0000000000001FD1
+t1260395162
+s8145
 i"TULEDImageFileSchema.h"
 
 N/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView+Convenience.h
@@ -66,9 +66,9 @@ i<UIKit/UIKit.h>
 i"TULEDIndicatorView.h"
 
 N/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView+Convenience.m
-c000000004B1FE903000000000000291B
-t1260382467
-s10523
+c000000004B201A6000000000000028B2
+t1260395104
+s10418
 i"TULEDIndicatorView+Convenience.h"
 i"TULEDImageFileSchema.h"
 
@@ -79,9 +79,9 @@ s5372
 i<UIKit/UIKit.h>
 
 N/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView.m
-c000000004B1FDE780000000000002CF9
-t1260379768
-s11513
+c000000004B201AA20000000000002C16
+t1260395170
+s11286
 i"TULEDIndicatorView.h"
 
 N/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorViews.h
@@ -103,20 +103,20 @@ s188
 i<Foundation/Foundation.h>
 
 N/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator/libTULEDIndicatorViews.a
-t1260379769
-s94344
+t1260395175
+s91600
 
 N/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDImageFileSchema.o
-t1260379684
-s19116
+t1260395175
+s17232
 
 N/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorView+Convenience.o
-t1260379684
-s39584
+t1260395175
+s39276
 
 N/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorView.o
-t1260379769
-s35120
+t1260395175
+s34568
 
 N/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorViews.LinkFileList
 c000000004B1EC4F60000000000000287
@@ -133,11 +133,11 @@ s8972784
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies282072569#282072569#0(0"0(0#1#0"4300885448#0"0#
+lSLF07#2@18"Check dependencies282087974#282087974#0(0"0(0#1#0"4300885448#0"0#
 
 CCompileC build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDImageFileSchema.o /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s282072484.126851
-e282072484.251711
+s282087975.080527
+e282087975.257525
 r1
 xCompileC
 xbuild/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDImageFileSchema.o
@@ -146,11 +146,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@120"Compile /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m282072484#282072484#0(0"0(0#0#112"/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m4300885448#2689"    cd /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-generated-files.hmap -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-own-target-headers.hmap -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-all-target-headers.hmap -iquote /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-project-headers.hmap -F/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator/include -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/DerivedSources/i386 -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/DerivedSources -include /var/folders/SJ/SJYubbTsFFGzyLy3agtv5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TULEDIndicatorViews_Prefix-bihofuswoxqkdeerynhcvezbiktd/TULEDIndicatorViews_Prefix.pch -c /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m -o /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDImageFileSchema.o0#
+lSLF07#2@120"Compile /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m282087975#282087975#0(0"0(0#0#112"/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m4300885448#2689"    cd /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-generated-files.hmap -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-own-target-headers.hmap -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-all-target-headers.hmap -iquote /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-project-headers.hmap -F/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator/include -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/DerivedSources/i386 -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/DerivedSources -include /var/folders/SJ/SJYubbTsFFGzyLy3agtv5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TULEDIndicatorViews_Prefix-bihofuswoxqkdeerynhcvezbiktd/TULEDIndicatorViews_Prefix.pch -c /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDImageFileSchema.m -o /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDImageFileSchema.o0#
 
 CCompileC build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorView+Convenience.o /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView+Convenience.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s282072484.125891
-e282072484.309076
+s282087974.991375
+e282087975.314847
 r1
 xCompileC
 xbuild/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorView+Convenience.o
@@ -159,11 +159,11 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@130"Compile /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView+Convenience.m282072484#282072484#0(0"0(0#0#122"/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView+Convenience.m4300885448#2709"    cd /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-generated-files.hmap -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-own-target-headers.hmap -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-all-target-headers.hmap -iquote /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-project-headers.hmap -F/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator/include -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/DerivedSources/i386 -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/DerivedSources -include /var/folders/SJ/SJYubbTsFFGzyLy3agtv5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TULEDIndicatorViews_Prefix-bihofuswoxqkdeerynhcvezbiktd/TULEDIndicatorViews_Prefix.pch -c /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView+Convenience.m -o /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorView+Convenience.o0#
+lSLF07#2@130"Compile /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView+Convenience.m282087974#282087975#0(0"0(0#0#122"/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView+Convenience.m4300885448#2709"    cd /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-generated-files.hmap -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-own-target-headers.hmap -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-all-target-headers.hmap -iquote /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-project-headers.hmap -F/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator/include -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/DerivedSources/i386 -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/DerivedSources -include /var/folders/SJ/SJYubbTsFFGzyLy3agtv5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TULEDIndicatorViews_Prefix-bihofuswoxqkdeerynhcvezbiktd/TULEDIndicatorViews_Prefix.pch -c /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView+Convenience.m -o /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorView+Convenience.o0#
 
 CCompileC build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorView.o /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s282072569.214227
-e282072569.457634
+s282087975.257615
+e282087975.464666
 r1
 xCompileC
 xbuild/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorView.o
@@ -172,21 +172,21 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@118"Compile /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView.m282072569#282072569#0(0"0(0#0#110"/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView.m4300885448#2685"    cd /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-generated-files.hmap -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-own-target-headers.hmap -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-all-target-headers.hmap -iquote /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-project-headers.hmap -F/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator/include -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/DerivedSources/i386 -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/DerivedSources -include /var/folders/SJ/SJYubbTsFFGzyLy3agtv5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TULEDIndicatorViews_Prefix-bihofuswoxqkdeerynhcvezbiktd/TULEDIndicatorViews_Prefix.pch -c /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView.m -o /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorView.o0#
+lSLF07#2@118"Compile /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView.m282087975#282087975#0(0"0(0#0#110"/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView.m4300885448#2685"    cd /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-generated-files.hmap -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-own-target-headers.hmap -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-all-target-headers.hmap -iquote /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/TULEDIndicatorViews-project-headers.hmap -F/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator/include -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/DerivedSources/i386 -I/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/DerivedSources -include /var/folders/SJ/SJYubbTsFFGzyLy3agtv5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TULEDIndicatorViews_Prefix-bihofuswoxqkdeerynhcvezbiktd/TULEDIndicatorViews_Prefix.pch -c /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorView.m -o /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorView.o0#
 
 CCompileC build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorViews.o /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/TULEDIndicatorViews.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CLibtool /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator/libTULEDIndicatorViews.a normal i386
-s282072569.457726
-e282072569.462988
+s282087975.464763
+e282087975.494527
 r1
 xLibtool
 x/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator/libTULEDIndicatorViews.a
 xnormal
 xi386
 o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
-lSLF07#2@72"Libtool build/Debug-iphonesimulator/libTULEDIndicatorViews.a normal i386282072569#282072569#0(136"/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"4300885448#1055"    cd /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator -filelist /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorViews.LinkFileList -ObjC -framework Foundation -framework CoreGraphics -framework UIKit -framework QuartzCore -o /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator/libTULEDIndicatorViews.a0#
+lSLF07#2@72"Libtool build/Debug-iphonesimulator/libTULEDIndicatorViews.a normal i386282087975#282087975#0(136"/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"4300885448#1055"    cd /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator -filelist /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/TULEDIndicatorViews.build/Debug-iphonesimulator/TULEDIndicatorViews.build/Objects-normal/i386/TULEDIndicatorViews.LinkFileList -ObjC -framework Foundation -framework CoreGraphics -framework UIKit -framework QuartzCore -o /Users/plx/Dropbox/tortuga/projects/leds/Tortuga-LED-Indicators/xcode/TULEDIndicatorViews/build/Debug-iphonesimulator/libTULEDIndicatorViews.a0#
 
 CProcessPCH /var/folders/SJ/SJYubbTsFFGzyLy3agtv5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TULEDIndicatorViews_Prefix-bihofuswoxqkdeerynhcvezbiktd/TULEDIndicatorViews_Prefix.pch.gch TULEDIndicatorViews_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s281844264.399934

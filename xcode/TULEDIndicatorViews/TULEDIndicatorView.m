@@ -278,7 +278,6 @@
 		}
 	}
 	@catch (NSException * e) {
-		NSLog(@"Exception In: [%@:<%x> observeValueForKeyPath:'%@' ofObject:'%@' change:'%@' context:'%@']: '%@', '%@'.",NSStringFromClass([self class]),((NSUInteger)self),keyPath,object,change,context,[e description],[e userInfo]);
 		handledIt = NO;
 	}
 	@finally {

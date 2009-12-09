@@ -115,7 +115,6 @@
 	[self.redLEDNumber8 makeRed];
 	
 	[self.notificationDemoLED makeWhite];
-	NSLog(@"self.notificationDemoLED: '%@', '%@'.",self.notificationDemoLED.onIndicatorImage,self.notificationDemoLED.offIndicatorImage);
 	[[NSNotificationCenter defaultCenter] addObserver:self.notificationDemoLED 
 											 selector:@selector(turnLightSwitchOnNotfication:) 
 												 name:TULEDIndicatorViewsDemoOnNotification

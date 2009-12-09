@@ -22,16 +22,16 @@
 	};
 	28D7ACF60DDB3853001CB0EB /* TULEDIndicatorViewsDemoViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {905, 1743}}";
+			sepNavIntBoundsRect = "{{0, 0}, {904, 1743}}";
 			sepNavSelRange = "{78, 0}";
 			sepNavVisRange = "{0, 874}";
 		};
 	};
 	28D7ACF70DDB3853001CB0EB /* TULEDIndicatorViewsDemoViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {488.824, 3738}}";
-			sepNavSelRange = "{5064, 0}";
-			sepNavVisRange = "{4975, 94}";
+			sepNavIntBoundsRect = "{{0, 0}, {1052.34, 3234}}";
+			sepNavSelRange = "{3762, 0}";
+			sepNavVisRange = "{3407, 909}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -90,19 +90,22 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 282075236;
-			PBXWorkspaceStateSaveDate = 282075236;
+			PBXPerProjectTemplateStateSaveDate = 282087874;
+			PBXWorkspaceStateSaveDate = 282087874;
 		};
 		perUserProjectItems = {
-			3247AB2B10CF61A600FBD8C5 /* PBXTextBookmark */ = 3247AB2B10CF61A600FBD8C5 /* PBXTextBookmark */;
-			3247AB2F10CF61A600FBD8C5 /* PBXBookmark */ = 3247AB2F10CF61A600FBD8C5 /* PBXBookmark */;
-			3247ABCD10D0184600FBD8C5 /* PBXTextBookmark */ = 3247ABCD10D0184600FBD8C5 /* PBXTextBookmark */;
-			3247ABCE10D0184600FBD8C5 /* PBXTextBookmark */ = 3247ABCE10D0184600FBD8C5 /* PBXTextBookmark */;
-			3247ABCF10D0184600FBD8C5 /* PBXTextBookmark */ = 3247ABCF10D0184600FBD8C5 /* PBXTextBookmark */;
-			3247ABD010D0184600FBD8C5 /* PBXTextBookmark */ = 3247ABD010D0184600FBD8C5 /* PBXTextBookmark */;
-			3247ABF210D0208500FBD8C5 /* PBXTextBookmark */ = 3247ABF210D0208500FBD8C5 /* PBXTextBookmark */;
-			3247ABF310D0208500FBD8C5 /* PBXTextBookmark */ = 3247ABF310D0208500FBD8C5 /* PBXTextBookmark */;
-			3247ABFB10D0260F00FBD8C5 /* PBXTextBookmark */ = 3247ABFB10D0260F00FBD8C5 /* PBXTextBookmark */;
+			3247AB2B10CF61A600FBD8C5 = 3247AB2B10CF61A600FBD8C5 /* PBXTextBookmark */;
+			3247AB2F10CF61A600FBD8C5 = 3247AB2F10CF61A600FBD8C5 /* PBXBookmark */;
+			3247ABCD10D0184600FBD8C5 = 3247ABCD10D0184600FBD8C5 /* PBXTextBookmark */;
+			3247ABCE10D0184600FBD8C5 = 3247ABCE10D0184600FBD8C5 /* PBXTextBookmark */;
+			3247ABCF10D0184600FBD8C5 = 3247ABCF10D0184600FBD8C5 /* PBXTextBookmark */;
+			3247ABD010D0184600FBD8C5 = 3247ABD010D0184600FBD8C5 /* PBXTextBookmark */;
+			3247ABF210D0208500FBD8C5 = 3247ABF210D0208500FBD8C5 /* PBXTextBookmark */;
+			3247ABF310D0208500FBD8C5 = 3247ABF310D0208500FBD8C5 /* PBXTextBookmark */;
+			3247ABFB10D0260F00FBD8C5 = 3247ABFB10D0260F00FBD8C5 /* PBXTextBookmark */;
+			3247AC0C10D051D500FBD8C5 /* PBXTextBookmark */ = 3247AC0C10D051D500FBD8C5 /* PBXTextBookmark */;
+			3247AC0D10D051D500FBD8C5 /* PBXTextBookmark */ = 3247AC0D10D051D500FBD8C5 /* PBXTextBookmark */;
+			3247AC0E10D051D500FBD8C5 /* PBXTextBookmark */ = 3247AC0E10D051D500FBD8C5 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 3201D9EC10CF314D002B5A73 /* Source Control */;
 		userBuildSettings = {
@@ -166,9 +169,9 @@
 	};
 	3247AAB710CF51AB00FBD8C5 /* TULEDKVOFlipFlop.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {905, 1764}}";
-			sepNavSelRange = "{57, 0}";
-			sepNavVisRange = "{0, 462}";
+			sepNavIntBoundsRect = "{{0, 0}, {954.812, 1449}}";
+			sepNavSelRange = "{1261, 0}";
+			sepNavVisRange = "{1123, 273}";
 		};
 	};
 	3247AB2B10CF61A600FBD8C5 /* PBXTextBookmark */ = {
@@ -265,5 +268,32 @@
 		rType = 0;
 		vrLen = 874;
 		vrLoc = 0;
+	};
+	3247AC0C10D051D500FBD8C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TULEDIndicatorViewsDemoViewController.m */;
+		name = "TULEDIndicatorViewsDemoViewController.m: 118";
+		rLen = 0;
+		rLoc = 3762;
+		rType = 0;
+		vrLen = 358;
+		vrLoc = 3628;
+	};
+	3247AC0D10D051D500FBD8C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3247AAB710CF51AB00FBD8C5 /* TULEDKVOFlipFlop.m */;
+		rLen = 0;
+		rLoc = 1261;
+		rType = 0;
+	};
+	3247AC0E10D051D500FBD8C5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3247AAB710CF51AB00FBD8C5 /* TULEDKVOFlipFlop.m */;
+		name = "TULEDKVOFlipFlop.m: 57";
+		rLen = 0;
+		rLoc = 1261;
+		rType = 0;
+		vrLen = 273;
+		vrLoc = 1123;
 	};
 }
