@@ -60,17 +60,17 @@ We want to use TULEDIndicatorView to show if the internet is available. Here's w
 
 ...if you were creating the view programmatically you'd do this instead:
 
-self.connectionAvailableIndicator = [TULEDIndicator greenLEDIndicatorWithFrame:frame
-                                                               watchingKeyPath:@"connectionAvailable" 
-                                                                      ofObject:self.connectionMonitor
-                                                                     inverting:NO];
+self.connectionAvailableIndicator = [TULEDIndicatorView greenLEDIndicatorWithFrame:frame
+                                                                   watchingKeyPath:@"connectionAvailable" 
+                                                                          ofObject:self.connectionMonitor
+                                                                         inverting:NO];
 
 ...if instead you had been saddled with a legacy class that had a "problemWithInternet" property you'd do this instead:
 
-self.connectionAvailableIndicator = [TULEDIndicator greenLEDIndicatorWithFrame:frame
-                                                               watchingKeyPath:@"connectionAvailable" 
-                                                                      ofObject:self.connectionMonitor
-                                                                     inverting:YES];
+self.connectionAvailableIndicator = [TULEDIndicatorView greenLEDIndicatorWithFrame:frame
+                                                                   watchingKeyPath:@"connectionAvailable" 
+                                                                          ofObject:self.connectionMonitor
+                                                                         inverting:YES];
 
 ...as setting inverting==YES means that for purposes of KVO-driven updates the LED Indicator treats a YES @ the monitored keyPath as a NO and vice-versa; this lets you avoid having to extend or rewrite pre-existing code to get it to work correctly with the LED Indicator.
 
